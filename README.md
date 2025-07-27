@@ -10,6 +10,9 @@ This is a minimal Android "Hello World" app. The project includes a simple `Main
 
 [Download HelloWorldAndroidApp.apk](./HelloWorldAndroidApp.apk)
 
+You can also fetch the latest release directly from GitHub:
+<https://github.com/rudyscoggins/HelloWorldAndroidApp/releases/latest/download/HelloWorldAndroidApp.apk>
+
 ## Building from source
 
 If you have the Android SDK installed, you can build the debug APK with:
